@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title></title>
+        <title>G Wolf</title>
     </head>
     <body>
         <h1>
